@@ -46,7 +46,12 @@ Video demostrativo:
 
 ## Demo Video
 
-[🎥 Download Demo Video](media/Castañer_Pedro_Video.mp4)
+
+[🎥 Watch Demo Video](https://youtu.be/i7j0NpMe4HE)
+
+## Screenshots
+
+![TATRI System](media/images/IMG_0563.jpg)
 
 
 ---
