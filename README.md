@@ -35,7 +35,7 @@ El sistema busca reducir la complejidad de las interfaces tridimensionales tradi
 
 La memoria completa del proyecto se encuentra en:
 
-`docs/TATRI_Memoria.pdf`
+`docs/Castaner_Pedro_MFinal.pdf`
 
 ---
 
@@ -43,7 +43,7 @@ La memoria completa del proyecto se encuentra en:
 
 Video demostrativo:
 
-`media/demo.mp4`
+`media/Castañer_Pedro_Video.mp4`
 
 ---
 
