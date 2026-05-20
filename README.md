@@ -57,7 +57,7 @@ Video demostrativo:
 
 ![TATRI System](media/images/TOKESICONOALUMINIOto.png)
 
-![TATRI System](media/images/IMG_0563.jpg)
+![TATRI System](media/images/TOKESICONOALUMINIOv7.png)
 
 
 ---
