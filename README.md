@@ -34,8 +34,9 @@ El sistema busca reducir la complejidad de las interfaces tridimensionales tradi
 ## Documentación
 
 La memoria completa del proyecto se encuentra en:
+## Documentation
 
-`docs/Castaner_Pedro_MFinal.pdf`
+[📄 View Full Project Documentation](docs/Castaner_Pedro_MFinal.pdf)
 
 ---
 
@@ -43,7 +44,10 @@ La memoria completa del proyecto se encuentra en:
 
 Video demostrativo:
 
-`media/Castañer_Pedro_Video.mp4`
+## Demo Video
+
+[🎥 Download Demo Video](media/Castañer_Pedro_Video.mp4)
+
 
 ---
 
